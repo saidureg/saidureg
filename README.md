@@ -1,4 +1,4 @@
-<img src="./assets/bg-white.png" />
+<img src="./assets/bg-black.png" />
 
 # 💫 About Me:
 
