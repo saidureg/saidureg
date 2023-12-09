@@ -1,3 +1,5 @@
+<img src="./assets/bg-white.png" />
+
 # 💫 About Me:
 
 🌱 I’m currently learning: Advanced JavaScript concepts, Node.js performance optimization, and venturing into backend technologies beyond Express.js, with a keen focus on Next.js.<br>👯 I’m looking to collaborate on: Full-stack projects that leverage React for the frontend and Node.js/Express.js for the backend, especially those involving MongoDB.<br>🤔 I’m looking for help with: Scaling Node.js applications and implementing authentication and authorization with JWT in different scenarios.<br>💬 Ask me about: React, Node.js, Express.js, MongoDB, JWT authentication, and any challenges or interesting projects you're working on.<br>📫 How to reach me: LinkedIn (https://www.linkedin.com/in/rsaidur/) or email (saidureg@gmail.com).<br>😄 Pronouns: He/him<br>⚡ Fun fact: I enjoy finding efficient solutions to coding challenges and exploring new libraries and tools to enhance my development workflow.
